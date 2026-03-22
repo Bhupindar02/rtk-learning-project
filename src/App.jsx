@@ -20,5 +20,5 @@ import { decrement, increment, incrementByAmount,incrementAsync } from './Store/
      </div>
    )
  }
- 
+ //incriment needs to be fixed
  export default App
